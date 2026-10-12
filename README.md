@@ -79,6 +79,6 @@ The private data directory retains its existing name for compatibility with earl
 
 ## About this project
 
-This is a small project developed by a high school student with help from Codex. Thank you for trying it and for sharing constructive feedback.
+This is a small project developed by David Li with help from Codex. Thank you for trying it and for sharing constructive feedback. Updates considered!!!!
 
 Apache-2.0. See [LICENSE](LICENSE) and [third-party notices](THIRD_PARTY_LICENSES.md).
