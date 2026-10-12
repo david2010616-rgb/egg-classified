@@ -1,0 +1,2 @@
+pypdf>=5,<7
+jsonschema>=4.23,<5

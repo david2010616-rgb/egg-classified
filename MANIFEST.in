@@ -1,0 +1,4 @@
+include README.md LICENSE THIRD_PARTY_LICENSES.md
+include app.py requirements-ai.txt Start.command .gitignore
+include docs/API_SETUP.md
+global-exclude __pycache__ *.py[cod] *.sqlite* *.db .env .env.*

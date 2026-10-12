@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "egg-classified"
+version = "0.2.2"
+description = "English desktop file classification and reviewed organization"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+license-files = ["LICENSE", "THIRD_PARTY_LICENSES.md"]
+dependencies = []
+
+[project.optional-dependencies]
+ai = ["pypdf>=5,<7", "jsonschema>=4.23,<5"]
+
+[project.scripts]
+egg-classified = "ai_classifier.__main__:main"
+
+[tool.setuptools]
+packages = ["ai_classifier"]
