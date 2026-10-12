@@ -1,4 +1,4 @@
-# egg classified
+# Egg classified🥚
 
 An English Python desktop app for reviewing and organizing files. Import documents or a list of names, choose a classification scheme, review suggested folders, and confirm before copying or moving anything.
 
